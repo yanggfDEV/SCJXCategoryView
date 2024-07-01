@@ -1,0 +1,22 @@
+{
+  "name": "SCJXCategoryView",
+  "version": "0.1.0",
+  "summary": "A short description of SCJXCategoryView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yanggfDEV/SCJXCategoryView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yanggfDEV": "yangguangfu_1@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yanggfDEV/SCJXCategoryView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SCJXCategoryView/Classes/**/*"
+}

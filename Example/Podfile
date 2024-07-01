@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SCJXCategoryView_Example' do
+  pod 'SCJXCategoryView', :path => '../'
+
+  target 'SCJXCategoryView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

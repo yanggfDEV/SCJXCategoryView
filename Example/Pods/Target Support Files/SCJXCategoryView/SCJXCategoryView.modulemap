@@ -1,0 +1,6 @@
+framework module SCJXCategoryView {
+  umbrella header "SCJXCategoryView-umbrella.h"
+
+  export *
+  module * { export * }
+}

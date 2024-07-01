@@ -1,0 +1,16 @@
+PODS:
+  - SCJXCategoryView (0.1.0)
+
+DEPENDENCIES:
+  - SCJXCategoryView (from `../`)
+
+EXTERNAL SOURCES:
+  SCJXCategoryView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SCJXCategoryView: f9206150a0e8484b4d59ce6c0c4bcf13e813efa8
+
+PODFILE CHECKSUM: da697b860520892e04a84e69e833afc95bbd272d
+
+COCOAPODS: 1.15.2
